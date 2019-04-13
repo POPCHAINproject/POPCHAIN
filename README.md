@@ -13,12 +13,12 @@ Resources may be helpful to know about Pop.
 
 Basic usage resources:
 
-* [Official site](http://www.popchain.org/)
-* [Whitepaper](https://popchain.org/whitepaper/POPCHAIN_WHITEPAPER_EN.pdf)
+* [Official site](http://www.popchain.co/)
+* [Whitepaper](https://popchain.co/whitepaper/POPCHAIN_WHITEPAPER_EN.pdf)
 
 Contact us:
 
-* contact@popchain.org
+* contact@popchain.co
 
 
 Building POPCHAIN
