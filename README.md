@@ -1,5 +1,4 @@
 # POPCHAIN
-![팝체인_블랙](<https://s3.ap-northeast-2.amazonaws.com/east-d/img/popchain/%ED%8C%9D%EC%B2%B4%EC%9D%B8_%EB%B8%94%EB%9E%99.png>)
 
 ### What is POPCHAIN?
 
